@@ -7,7 +7,7 @@
    BlackTools is the most complete channel management script who can manage channels from all 
    the IRC networks, although some modules are specifically designed only for Undernet network.
 
-                                      -----------------------
+                                      ------------------------
 
    Bugs report : http://www.tclscripts.net
    History     : http://www.tclscripts.net/release-notes
